@@ -2,6 +2,9 @@
 .text-primary{
     color: #FD6E0A;
 }
+body{
+    background-size: cover;
+}
 .secondary-bg{
     background-color: #FFF8F3;
 }
@@ -121,6 +124,8 @@ main{
 .resume-container{
     display: flex;
     gap: 24px;
+    padding: 30px;
+    margin-right: 40px;
 }
 .experience-sub-title{
     font-size: 20px;
